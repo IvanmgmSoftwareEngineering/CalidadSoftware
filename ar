@@ -22,7 +22,7 @@ fi
 echo $*
 git add .
 git commit -m "$*"
-git push -u origin master
+git push -u origin Ivan
 
 # FIN Script
 exit 0
